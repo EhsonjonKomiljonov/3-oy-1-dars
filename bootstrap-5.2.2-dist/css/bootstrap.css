@@ -5906,6 +5906,7 @@ fieldset:disabled .btn {
 	width: var(--bs-popover-arrow-width);
 	height: var(--bs-popover-arrow-height);
 }
+
 .popover .popover-arrow::before,
 .popover .popover-arrow::after {
 	position: absolute;
